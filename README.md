@@ -52,7 +52,7 @@ Kula profissionaliza e traz segurança ao mercado de publicidade em canais de co
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/kula.git
+git clone https://github.com/Sunyld/kula.git
 cd kula
 ```
 
@@ -171,4 +171,3 @@ Desenvolvido com ❤️ usando Next.js e TypeScript.
 ---
 
 **Kula** - Conectando criadores e anunciantes de forma segura e profissional.
-
