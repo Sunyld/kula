@@ -1,0 +1,17 @@
+import Navbar from '@/components/Navbar';
+
+export default function Privacy() {
+  return (
+    <main>
+      <Navbar />
+      <section className="min-h-screen px-6 md:px-20 mt-16 py-10 max-w-3xl">
+        <h1 className="text-3xl font-bold">Política de Privacidade</h1>
+        <p className="text-gray-600 mt-3">Como tratamos os seus dados na Kula. Conteúdo placeholder para o MVP.</p>
+      </section>
+    </main>
+  );
+}
+
+
+
+

@@ -1,0 +1,36 @@
+{
+  "creator": {
+    "metrics": {
+      "availableBalance": 420,
+      "escrowBalance": 260,
+      "totalOrders": 18
+    },
+    "activeOrders": [
+      { "id": 101, "channel": "MozHumor", "package": "Post + Status 24h", "price": 150, "dueIn": "1 dia" },
+      { "id": 102, "channel": "ModaMaputo", "package": "Post Simples", "price": 120, "dueIn": "2 dias" }
+    ],
+    "channels": [
+      { "id": 1, "name": "MozHumor", "platform": "WhatsApp", "followers": 12000, "rating": 4.8 },
+      { "id": 3, "name": "ModaMaputo", "platform": "Instagram", "followers": 15000, "rating": 4.9 }
+    ]
+  },
+  "advertiser": {
+    "metrics": {
+      "availableBalance": 180,
+      "escrowBalance": 300,
+      "activeCampaigns": 3
+    },
+    "campaigns": [
+      { "id": 301, "name": "Lançamento Coleção Verão", "channel": "ModaMaputo", "status": "Em andamento", "spend": 240 },
+      { "id": 302, "name": "Promo Novembro", "channel": "DicasDeLuanda", "status": "Aguardando Prova", "spend": 80 }
+    ],
+    "favorites": [
+      { "id": 1, "name": "MozHumor", "platform": "WhatsApp", "rating": 4.8 },
+      { "id": 2, "name": "DicasDeLuanda", "platform": "TikTok", "rating": 4.6 }
+    ]
+  }
+}
+
+
+
+

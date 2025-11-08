@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "MozHumor",
+    "platform": "WhatsApp",
+    "followers": 12000,
+    "priceFrom": 100,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "DicasDeLuanda",
+    "platform": "TikTok",
+    "followers": 8500,
+    "priceFrom": 80,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "ModaMaputo",
+    "platform": "Instagram",
+    "followers": 15000,
+    "priceFrom": 120,
+    "rating": 4.9
+  }
+]
